@@ -72,7 +72,7 @@ venv.bak/
 *.code-workspace
 
 # Model binary files (commonly large; commit intentionally if desired)
-*.pkl
+#*.pkl
 *.joblib
 
 # Streamlit cache
