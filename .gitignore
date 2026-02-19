@@ -76,7 +76,7 @@ venv.bak/
 *.joblib
 
 # Streamlit cache
-.streamlit/
+#.streamlit/
 
 # Python history
 .python_history
